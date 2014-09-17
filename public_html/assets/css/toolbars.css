@@ -1,0 +1,192 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*----------------------------------------------------------------------------------------
+----------------------------------IconBAR SECTION---------------------------------------*/
+
+.basemapIcon
+{
+    background-image:url(../Images/toolbars/basemap.jpg);
+    width:32px;
+    height:32px;
+}
+
+.mapNavIcon
+{
+    background-image:url(../Images/toolbars/mapNavigation_off.gif);
+    width: 32px;
+    height: 32px;
+}
+
+.mapNavIcon:hover
+{
+    background-image:url(../Images/toolbars/mapNavigation_on.gif);
+    width: 32px;
+    height: 32px;
+}
+.measureIcon
+{
+    background-image:url(../Images/toolbars/mapTools_off.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.measureIcon:hover
+{
+    background-image:url(../Images/toolbars/mapTools_on.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.identifyIcon
+{
+    background-image:url(../Images/toolbars/identify_off.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.identifyIcon:hover
+{
+    background-image:url(../Images/toolbars/identify_on.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.layersIcon
+{
+    background-image:url(../Images/toolbars/legendControl_off.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.layersIcon:hover
+{
+    background-image:url(../Images/toolbars/legendControl_on.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.legendImg
+{
+    background-image:url(..Images/toolbars/maplegend_on.gif);
+    width:30px;
+    height:30px;
+}
+.helpIcon
+{
+	background-image:url(../Images/toolbars/Help_32.png);
+	width: 32px;
+    height: 32px;
+}
+
+/*===============Navigation Tools========================*/
+
+.fullExtentIcon
+{
+	background-image:url(../Images/navtools/fullExtent_off.gif);
+	width: 32px;
+    height: 32px;
+}
+.fullExtentIcon:hover
+{
+	background-image:url(../Images/navtools/fullExtent_on.gif);
+	width: 32px;
+    height: 32px;
+}
+.panIcon
+{
+	background-image:url(../Images/navtools/pan_off.gif);
+	width: 32px;
+    height: 32px;
+}
+.panIcon:hover
+{
+	background-image:url(../Images/navtools/pan_on.gif);
+	width: 32px;
+    height: 32px;
+}
+.zoomInIcon
+{
+	background-image:url(../Images/navtools/zoomIn_off.gif);
+	width: 32px;
+    height: 32px;
+}
+.zoomInIcon:hover
+{
+	background-image:url(../Images/navtools/zoomIn_on.gif);
+	width: 32px;
+    height: 32px;
+}
+.zoomOutIcon
+{
+	background-image:url(../Images/navtools/zoomOut_off.gif);
+	width: 32px;
+    height: 32px;
+}
+.zoomOutIcon:hover
+{
+	background-image:url(../Images/navtools/zoomOut_on.gif);
+	width: 32px;
+    height: 32px;
+}
+.zoomNextIcon
+{
+	background-image:url(../Images/navtools/zoomNext_off.gif);
+	width: 32px;
+    height: 32px;
+}
+.zoomNextIcon:hover
+{
+	background-image:url(../Images/navtools/zoomNext_on.gif);
+	width: 32px;
+    height: 32px;
+}
+.zoomPrevIcon
+{
+	background-image:url(../Images/navtools/zoomPrev_off.gif);
+	width: 32px;
+    height: 32px;
+}
+.zoomPrevIcon:hover
+{
+	background-image:url(../Images/navtools/zoomPrev_on.gif);
+	width: 32px;
+    height: 32px;
+}
+
+/*================== MEASURE TOOLS ======================*/
+
+.pointIcon
+{
+	background-image:url(../Images/MeasureTools/point_m_off.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.lineIcon
+{
+	background-image:url(../Images/MeasureTools/line_off.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.freeLineIcon
+{
+	background-image:url(../Images/MeasureTools/freeline_off.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.polyIcon
+{
+	background-image:url(../Images/MeasureTools/poly_off.gif);
+	width: 32px;
+    height: 32px;
+}
+
+.freePolyIcon
+{
+	background-image:url(../Images/MeasureTools/freepoly_off.gif);
+	width: 32px;
+    height: 32px;
+}
