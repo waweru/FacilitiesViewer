@@ -43,7 +43,7 @@
 		//Instantiate the navigation tool
 		navtoolbar = new Navigation(map);
 
-		//map.on("load", initOperationalLayer);
+		map.on("load", initOperationalLayer);
 		
         function initOperationalLayer() {
           //Feature Layers

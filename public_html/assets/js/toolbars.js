@@ -6,7 +6,7 @@ $(function () {
             $("#baseGalleryPane").toggle();
             $("#measurePane").hide();
         }
-    )
+    );
 });
 
 $(function () {
@@ -15,7 +15,7 @@ $(function () {
             $("#measurePane").toggle();
             $("#baseGalleryPane").hide();
         }
-    )
+    );
     });
 
 //Tool bar click functions
